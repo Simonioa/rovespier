@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "472904328011",
+    "firebase_url": "https://lustrous-stack-709.firebaseio.com",
+    "project_id": "lustrous-stack-709",
+    "storage_bucket": "lustrous-stack-709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472904328011:android:367264f43ce64f3650bece",
+        "android_client_info": {
+          "package_name": "com.rovespier.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472904328011-4oh1jjjnu6ubpbftkhj218roce0hlama.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCn11GyrGVQSLbbxR9tBeZjBvS_ORsxbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472904328011-4oh1jjjnu6ubpbftkhj218roce0hlama.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "472904328011-n68d7tlus8cf7g4nsg492sc5rutn1g44.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rovespier.mobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
